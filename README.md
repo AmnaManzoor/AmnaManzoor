@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Amna Manzoor**  
+# **👋 Hi, I'm Amina Manzoor**  
 **Senior .NET Engineer | Azure Solutions Architect | Full-Stack Developer**  
 
 With **7+ years** of experience, I design and build **scalable, secure cloud applications** using **.NET, Azure, and modern DevOps practices**. Passionate about **clean architecture, performance optimization, and automation**.  
